@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a customer performance report 
+    **1.** Create a customer performance report [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf]
 
     **2.** Conduct a comprehensive comparison between market performance and sales targets [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
 
