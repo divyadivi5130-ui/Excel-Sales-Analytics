@@ -1,43 +1,81 @@
-## Sales Report :
+📊 Sales & Finance Analytics Report
 
+This project focuses on analyzing Sales and Financial performance data using Excel, Power Query, Power Pivot, and DAX. The goal is to provide actionable insights through customer sales performance, market performance against targets, and comprehensive P&L (Profit & Loss) statements.
 
-- **Project objective:** 
+🔹 Sales Report
+🧭 Project Objectives:
 
-    **1.** Create a customer performance report [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf]
+Customer Sales Performance Analysis:
+A detailed comparison of customer sales in the current year vs previous year.
+📄 Customer Performance Report (PDF)
 
-    **2.** Conduct a comprehensive comparison between market performance and sales targets [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
+Market Performance vs Target Analysis:
+Evaluated if sales targets were achieved, underachieved, or overachieved. Highlighted surplus achievements over the target.
+📄 Market Performance vs Target Report (PDF)
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+🎯 Purpose of Sales Analytics:
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+Monitor and evaluate sales activities and performance across customers and markets.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+📌 Importance of Analyzing Sales Data:
 
+Identify trends and patterns in customer behavior.
 
-## Finance Report :
+Track key performance indicators (KPIs).
 
-- **Project objective:** 
+Uncover opportunities for upselling, discount optimization, and regional expansion.
 
-    **1.** Create Profit and Loss (P&L) reports by Fiscal Year [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
+📈 Role of Sales Reports:
 
-   **2.** Create Profit and Loss (P&L) reports by Markets [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf]
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+Assist in setting realistic targets.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+🔹 Finance Report
+🧭 Project Objectives:
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+P&L Report by Fiscal Year:
+Year-wise breakdown of financial metrics, including Net Sales, COGS, Gross Margin, and Gross Margin %.
+📄 P&L Statement by Fiscal Year (PDF)
 
+P&L Reports by Quarter, Month, and Market:
+In-depth financial analysis segmented by time period and market. Includes comparisons of profitability and cost efficiency.
+📄 P&L Statement by Months (PDF)
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+🧾 Key Metrics Analyzed in P&L Reports:
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+Net Sales – Total revenue generated from sales.
+
+COGS (Cost of Goods Sold) – Direct costs of producing goods sold.
+
+Gross Margin (GM) – Profit after subtracting COGS from Net Sales.
+GM = Net Sales - COGS
+
+Gross Margin % (GM%) – Profitability expressed as a percentage of Net Sales.
+GM% = (GM / Net Sales) × 100
+
+🎯 Purpose of Financial Analysis:
+
+Evaluate revenue generation, cost control, and overall profitability.
+
+Enable strategic planning, forecasting, and decision-making.
+
+Communicate financial performance to stakeholders.
+
+📌 Importance of Analyzing Financial Data:
+
+Benchmark current performance against previous years and industry standards.
+
+Identify trends in cost structure and profitability.
+
+Facilitate efficient budgeting and resource allocation.
+
+📈 Role of Financial Reports:
+
+Drive informed financial decisions.
+
+Align business goals with financial capability.
+
+Improve transparency and performance tracking.
+
+Provide insights into customer performance and market reach.
+
+Inform strategic decisions on pricing, discounting, and expansion.
