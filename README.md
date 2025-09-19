@@ -7,11 +7,11 @@ This project focuses on analyzing Sales and Financial performance data using Exc
 
 Customer Sales Performance Analysis:
 A detailed comparison of customer sales in the current year vs previous year.
-📄 Customer Performance Report (PDF)
+📄 Customer Performance Report (PDF) [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf]
 
 Market Performance vs Target Analysis:
 Evaluated if sales targets were achieved, underachieved, or overachieved. Highlighted surplus achievements over the target.
-📄 Market Performance vs Target Report (PDF)
+📄 Market Performance vs Target Report (PDF) [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
 
 🎯 Purpose of Sales Analytics:
 
@@ -34,11 +34,11 @@ Assist in setting realistic targets.
 
 P&L Report by Fiscal Year:
 Year-wise breakdown of financial metrics, including Net Sales, COGS, Gross Margin, and Gross Margin %.
-📄 P&L Statement by Fiscal Year (PDF)
+📄 P&L Statement by Fiscal Year (PDF) [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
 
 P&L Reports by Quarter, Month, and Market:
 In-depth financial analysis segmented by time period and market. Includes comparisons of profitability and cost efficiency.
-📄 P&L Statement by Months (PDF)
+📄 P&L Statement by Months (PDF) [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf] and Market [https://github.com/divyadivi5130-ui/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf] 
 
 🧾 Key Metrics Analyzed in P&L Reports:
 
