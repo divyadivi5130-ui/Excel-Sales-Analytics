@@ -79,3 +79,17 @@ Improve transparency and performance tracking.
 Provide insights into customer performance and market reach.
 
 Inform strategic decisions on pricing, discounting, and expansion.
+
+🛠️ Technical & Soft Skills Demonstrated
+
+✅ Proficiency in ETL methodology (Extract, Transform, Load).
+
+✅ Generating date tables using Power Query.
+
+✅ Deriving fiscal months and quarters.
+
+✅ Building data models and relationships using Power Pivot.
+
+✅ Integrating supplementary datasets into existing models.
+
+✅ Creating calculated columns using DAX (Data Analysis Expressions).
